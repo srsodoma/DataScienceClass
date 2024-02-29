@@ -1,2 +1,2 @@
 # DataScienceClass
-Repository for class work
+Scott's repository for class work
